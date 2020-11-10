@@ -1,0 +1,58 @@
+.intro-heading{
+                
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+}
+            
+.Topbar{
+    width: auto;
+    height: auto;
+    background-color:blanchedalmond;
+    overflow: auto;
+}
+        
+.HomePage{
+    background-color:cadetblue;
+}
+            
+.Topbar a{
+                
+    float: left;
+    padding: 20px;
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+    width: 30%; 
+    text-align: center;
+}
+            
+.Topbar a:active{
+    color: aqua;
+    text-decoration: overline;
+}
+
+.Topbar a:visited{
+    color:blueviolet;
+    text-decoration: underline;
+}
+            
+.Topbar a:hover{
+    color:fuchsia;
+    text-decoration:overline;
+}
+            
+.ImAI{
+    margin-left: 600px;
+}
+    
+h2{
+    font-size: 50px; 
+    font-family: 'Turret Road', cursive;
+}
+h1{
+    margin-left: 500px;
+    font-size: 80px;
+    font-family: 'Turret Road', cursive;
+    color:brown;
+}
