@@ -1,0 +1,51 @@
+.header {
+    padding: 20px; 
+    text-align: center; 
+    background: #ac71e4; 
+    color: white; 
+    position:relative;
+  }
+  
+.header h1 {
+    font-size: 40px;
+}
+    * {
+    box-sizing: border-box;
+  }
+  
+  
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main2 {
+    flex: 50%; 
+    background-color: hsl(288, 60%, 90%); 
+    padding: 40px;
+    width: auto;
+    height: 800px;
+    position:relative;
+}
+  
+  
+.main {
+    flex: 50%; 
+    background-color: rgb(243, 245, 247); 
+    padding: 20px; 
+    width: auto;
+    height: 800px;
+    position:relative;
+}
+
+.Author{
+    position:absolute;
+    margin-top: -80px;
+    margin-left: 200px;
+}
+
+.NextPage{
+    
+    margin-top: -100px;
+    margin-left: 1050px;
+}

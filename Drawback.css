@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    color: black;
+    padding-left: 50px;
+}
+h4 {
+    padding-left: 50px;
+}
+
+p {
+    text-align: justify;
+    padding-left: 50px;
+}
+
+img {
+    size: 20px;
+    padding-left: 50px;
+  }
+
+.LinkeIn{
+    color: blueviolet;
+    text-decoration:underline;
+}
+
+.NextPage{
+    
+    margin-top: -100px;
+    margin-left: 600px;
+                    
+}
+            
+.NextPage a{
+    float: left;
+    margin-left: 40px;
+    padding: 20px;
+    color:orangered;
+    font-size: 30px;
+    width: 25%; 
+    text-decoration: none;
+    text-align: center;
+}
+
+.NextPage a:active{
+    color: aqua;
+    text-decoration: overline;
+}
+    
+.NextPage a:visited{
+    color:antiquewhite;
+    text-decoration: underline;
+}
+            
+.NextPage a:hover{
+    color:fuchsia;
+    text-decoration:overline;
+}

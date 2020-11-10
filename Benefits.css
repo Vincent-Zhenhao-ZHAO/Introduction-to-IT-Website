@@ -1,0 +1,98 @@
+.intro-heading{
+    border: 5px outset red;
+    text-align: center;
+    height: 170px;;
+    background-image: url(BenefitsAIFront.jpg);
+}
+            
+h2{
+    font-family: 'Henny Penny', cursive;
+    font-size:70px;
+    color:cadetblue;
+    background-color:#C2B9C7;
+    width: 600px;
+    line-height: 160px;
+    margin-left: 600px;
+    margin-top: 5px;
+}
+            
+.Body{
+    
+    background-image: url(BenefitsAIFront2.jpg);
+                    
+}
+            
+.smartHome-video{
+    margin-left: 500px;
+    margin-top: -150px;
+}
+            
+.IoT{
+    margin-left: 500px;
+    margin-top: -200px;
+}
+            
+li{
+    font-family: 'Sura', serif;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+            
+.end-word{  
+    padding-left: 1250px;
+    margin-top: -700px;
+    font-size: 50px;
+    font-family: 'Sirin Stencil', cursive;
+    color: #D39FAC;
+}
+
+.Source{
+    margin-left: 1250px;
+    margin-top: -200px;
+    font-size: 5px;
+}
+
+.LinkeIn{
+    
+    margin-top: 400px;
+    margin-left: 100px;
+}
+
+.LinkeIn a:active{
+    
+    color:bisque;
+    text-decoration: underline;
+}
+            
+.NextPage{
+    
+    margin-top: 100px;
+    margin-left: 100px;
+                    
+}
+            
+.NextPage a{
+    float: left;
+    margin-left: 40px;
+    padding: 20px;
+    color:orangered;
+    font-size: 30px;
+    width: 25%; 
+    text-decoration: none;
+    text-align: center;
+}
+.NextPage a:active{
+    color: aqua;
+    text-decoration: overline;
+}
+    
+.NextPage a:visited{
+    color:firebrick;
+    text-decoration: underline;
+}
+            
+.NextPage a:hover{
+    color:fuchsia;
+    text-decoration:overline;
+}
